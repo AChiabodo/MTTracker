@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ad8030d3-5d54-4d77-8a91-ce2caab87158" name="AAWS" url="https://overviewdb.ddns.net/">
+        <fileTransfer rootFolder="/home/ec2-user" accessType="SFTP" host="overviewdb.ddns.net" port="22" sshConfigId="edac1ea6-296f-4430-858a-e19499191a0f" sshConfig="ec2-user@overviewdb.ddns.net:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="overviewdb.ddns.net" id="edac1ea6-296f-4430-858a-e19499191a0f" keyPath="C:\Users\aless\Downloads\ProvaChiavi_1.pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
